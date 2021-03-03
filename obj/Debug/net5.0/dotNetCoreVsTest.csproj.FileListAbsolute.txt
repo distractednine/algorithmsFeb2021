@@ -1,0 +1,32 @@
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.csprojAssemblyReference.cache
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.AssemblyInfoInputs.cache
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.AssemblyInfo.cs
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.csproj.CoreCompileInputs.cache
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.exe
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.deps.json
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.runtimeconfig.json
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.runtimeconfig.dev.json
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.dll
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\ref\dotNetCoreVsTest.dll
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.pdb
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.dll
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\ref\dotNetCoreVsTest.dll
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.pdb
+C:\Users\disteractednine\Downloads\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.genruntimeconfig.cache
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.exe
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.deps.json
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.runtimeconfig.json
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.runtimeconfig.dev.json
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.dll
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\ref\dotNetCoreVsTest.dll
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\bin\Debug\net5.0\dotNetCoreVsTest.pdb
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.csprojAssemblyReference.cache
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.AssemblyInfoInputs.cache
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.AssemblyInfo.cs
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.csproj.CoreCompileInputs.cache
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.dll
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\ref\dotNetCoreVsTest.dll
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.pdb
+C:\Users\sviman\Desktop\misc\my code\dotNetCoreVsTest\obj\Debug\net5.0\dotNetCoreVsTest.genruntimeconfig.cache
